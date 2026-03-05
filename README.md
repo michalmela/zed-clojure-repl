@@ -4,7 +4,7 @@ Clojure/ClojureScript development environment for [Zed editor](https://zed.dev/)
 
 > **Early draft** — works but rough around the edges.
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Features
 
